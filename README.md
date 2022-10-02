@@ -1,6 +1,6 @@
 - 🎓 South China University of Technology
 
-- ⚡ Computer Science
+- ⚡:computer: Computer Science
 
 <!---
 Qiuzizhao/Qiuzizhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
